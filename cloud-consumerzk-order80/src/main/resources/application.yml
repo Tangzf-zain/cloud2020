@@ -1,5 +1,5 @@
 server:
-  port: 8004
+  port: 8003
 
 #服务注册别名----用zookeeper作为服务注册中心
 spring:
